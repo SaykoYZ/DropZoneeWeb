@@ -1,0 +1,24 @@
+{
+  "siteName": "DROPZONE GENERATOR",
+  "siteDescription": "Générez. Automatisez. Dominez.",
+  "slogan": "GÉNÉREZ. AUTOMATISEZ. DOMINEZ.",
+  "heroTitle": "DROPZONE GENERATOR",
+  "heroSubtitle": "Une plateforme sombre, rapide et pensée pour votre communauté.",
+  "heroImage": "",
+  "logoImage": "/logo.png",
+  "primaryColor": "#ffffff",
+  "secondaryColor": "#888888",
+  "discordUrl": "",
+  "footerText": "DROPZONE — Générateur premium.",
+  "maintenance": false,
+  "contactEmail": "",
+  "snowEnabled": true,
+  "musicEnabled": true,
+  "musicVolume": 0.45,
+  "faq": [
+    {
+      "question": "Comment fonctionne DropZone ?",
+      "answer": "Choisissez un produit ou une offre puis passez votre commande."
+    }
+  ]
+}
